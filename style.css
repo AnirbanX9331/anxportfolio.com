@@ -1,0 +1,159 @@
+  h1{
+    background:linear-gradient( to right,rgb(214, 228, 245) 15%,rgb(7, 192, 192) 50%, rgb(0, 170, 255) 100%);
+    color:rgb(18, 211, 233);
+    height:100vh;
+    text-align:center;
+    font-style:italic;
+    padding-top: 3px;
+  
+    font-size:50px;
+    
+    border-width: 10px;
+    border-color:rgb(0, 0, 0);
+    border-style:double;
+    border-radius:30px;
+  
+
+    
+    height: 100px;
+width:110px:
+  }
+
+
+
+#one{
+  color:black (255, 255, 255);
+  font-style: oblique;
+  text-decoration: none;
+  background-color: aqua;
+  
+  border-width: 2px;
+  border-color: black;
+  border-style:solid;
+  height:7px;
+  width: 20px; 
+  border-radius: 20px;
+}
+
+
+
+
+#two{
+  color:black(255,255, 255);
+  font-style: oblique;
+  text-decoration: none;
+  background-color: rgb(249, 253, 6);
+  
+  border-width: 2px;
+  border-color: black;
+  border-style:solid;
+  height:7px;
+  width: 20px; 
+  border-radius: 20px;
+}
+
+
+#three{
+  color:black (255,255,255 );
+  font-style: oblique;
+  text-decoration: none;
+  background-color: rgb(255, 136, 0);
+  border-width: 2px;
+  border-color: black;
+  border-style:solid;
+
+  height:7px;
+  width: 20px; 
+  border-radius: 20px;
+}
+
+
+
+#four{color:black;
+  font-style:oblique;
+  text-decoration: solid;
+  background-color: aquamarine;
+  border-width: 2px;
+  border-color:black;
+border-style:solid;
+height:7px;
+  width: 20px; 
+  border-radius: 20px;
+}
+
+#five{color:black;
+
+  font-style:oblique;
+  text-decoration: solid;
+  background-color:rgb(110, 255, 99);
+  border-width: 2px;
+  border-color:black;
+border-style:solid;
+height:7px;
+  width: 20px; 
+  border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+img{
+ height:150px;
+ padding-right: 15px;
+
+
+ border-radius: 50%;
+ float:right;
+ 
+}
+
+
+video{
+  height:100%;
+  width:100%;
+  object-fit:cover;
+  position: fixed;
+}
+
+
+
+.content{
+  color:rgb(17, 0, 249);
+  font-weight:900;
+  
+
+
+  text-align:left;
+  font-size: 35px;
+  
+}
+.content1{
+  color:rgb(105, 175, 232);
+  text-align: center;
+  font-size:40px;
+  font-style:italic;
+
+}
+
+
+#video-background{
+  position: fixed;
+  top:0;
+  left: 0;
+  height: 100%;
+  width:100%;
+  z-index: -1;
+}
+
+
+h2{
+  font-size:larger;
+  box-sizing: border-box;
+  
+}
